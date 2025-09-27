@@ -1,0 +1,9 @@
+# Requirements for LaTeX to Word Converter
+# Updated: September 27, 2025
+
+# Core dependencies
+latex2mathml==3.78.1
+python-docx==1.2.0
+lxml==6.0.2
+
+# Python version requirement: >=3.9 (due to python-docx constraint)
